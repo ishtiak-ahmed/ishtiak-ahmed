@@ -7,6 +7,7 @@
 
 ### Rana Agency,
 #### Private Detective and Security Firm Website
+![Rana-Agency-Admin](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/rana-agency.png)
 
 <!--
 **ishtiak-ahmed/ishtiak-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

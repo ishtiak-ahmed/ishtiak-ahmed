@@ -7,10 +7,11 @@
 
 ### Rana Agency,
 #### Private Detective and Security Firm Website
-![Rana-Agency-Admin](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/rana-agency.png)
-
 - Here user can hire service and give reviews. Admin can manage order, change order status, delete and add service, add new admin..
 - I used React, Bootstrap, Font Awesome icons, React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
+
+![Rana-Agency-Admin](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/rana-agency.png)
+
 
 <!--
 **ishtiak-ahmed/ishtiak-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

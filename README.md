@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # I am Ishtiak Ahmed
-## MERN Stack Web Developer
+### MERN Stack Web Developer
 
 ## My Recent Projects -
 

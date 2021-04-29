@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-# I am Ishtiak Ahmed, MERN Stack Web Developer
+# I am Ishtiak Ahmed
+## MERN Stack Web Developer
 
 ## My Recent Projects -
 
-### Rana Agency, Private Detective and Security Firm Website
+### Rana Agency,
+#### Private Detective and Security Firm Website
 
 <!--
 **ishtiak-ahmed/ishtiak-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

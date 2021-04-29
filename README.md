@@ -15,8 +15,11 @@
 
 ### Flourish And Blotts
 #### Bookshop Website, [Live Site](https://flourish-and-blotts.web.app/)
-- Here user can hire service and give reviews. Admin can manage order, change order status, delete and add service, add new admin..
-- I used React, Bootstrap, Font Awesome icons, React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
+- Products data coming from Mongodb server
+- User Specific order list
+- Google User authentication (login method)
+- Admin page to manage product, Create and delete product item from database
+- and Responsive layout
 
 ![Flourish-and-Blotts](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/flourish-blotts.png)
 

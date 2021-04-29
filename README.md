@@ -36,7 +36,7 @@
 ![Flourish-and-Blotts](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/flourish-blotts.png)
 
 ### Hogwarts express
-#### Metro Rail Ticket Booking site, [Live Site](https://flourish-and-blotts.web.app/), [Client Repo](https://github.com/ishtiak-ahmed/flourish---blotts-client)
+#### Metro Rail Ticket Booking site, [Live Site](https://hogwatrs-express.web.app/), [Code Repo](https://github.com/ishtiak-ahmed/hogwarts-express)
 This project is mainly focused firebase authentication. Here I have added..
 - Firebase Authentication
 - React Router

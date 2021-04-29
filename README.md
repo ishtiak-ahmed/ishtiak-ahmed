@@ -6,7 +6,7 @@
 ## My Recent Projects -
 
 ### Rana Agency
-#### Private Detective and Security Firm Website, [Live Site](https://rana-agency.web.app/)
+#### Private Detective and Security Firm Website, [Live Site](https://rana-agency.web.app/), [Client Repo](https://github.com/ishtiak-ahmed/rana-agency-client)
 - Here user can hire service and give reviews. Admin can manage order, change order status, delete and add service, add new admin..
 - I used React, Bootstrap, Font Awesome icons, React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.
 
@@ -14,7 +14,7 @@
 
 
 ### Flourish And Blotts
-#### Bookshop Website, [Live Site](https://flourish-and-blotts.web.app/)
+#### Bookshop Website, [Live Site](https://flourish-and-blotts.web.app/), [Repository](https://github.com/ishtiak-ahmed/flourish---blotts-client)
 - Products data coming from Mongodb server
 - User Specific order list
 - Google User authentication (login method)

@@ -38,8 +38,8 @@ This project is mainly focused firebase authentication. Here I have added..
 ![Flourish-and-Blotts](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/flourish-blotts.png)
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ishtiak-ahmed&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiak-ahmed&langs_count=5&theme=tokyonight)]()
+1. [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ishtiak-ahmed&count_private=true&theme=tokyonight&showicons=true)]()
+2. [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiak-ahmed&langs_count=5&theme=tokyonight)]()
 
 <!--
 **ishtiak-ahmed/ishtiak-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

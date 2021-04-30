@@ -35,7 +35,7 @@ This project is mainly focused firebase authentication. Here I have added..
 - Material UI Icons
 
 
-![Flourish-and-Blotts](https://raw.githubusercontent.com/ishtiak-ahmed/ishtiak-ahmed/main/flourish-blotts.png)
+![Hogwarts Express](https://raw.githubusercontent.com/ishtiak-ahmed/hogwarts-express/main/hogwarts.png)
 
 
 1. [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ishtiak-ahmed&count_private=true&theme=tokyonight&showicons=true)]()

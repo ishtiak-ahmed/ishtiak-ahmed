@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 # I am Ishtiak Ahmed
+### MERN Stack Web Developer
 ```diff
-! MERN Stack Web Developer
-
 + React, Node, Express, MongoDB
 ```
 

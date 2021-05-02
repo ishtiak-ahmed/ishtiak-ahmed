@@ -3,7 +3,7 @@
 # I am Ishtiak Ahmed
 ### MERN Stack Web Developer
 ```diff
-+ ** React, Node, Express, MongoDB **
++  React, Node, Express, MongoDB
 ```
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ishtiak-ahmed-1606/) [![Facebook Profile](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ishtiak.ahmed1606) 
@@ -20,7 +20,7 @@
 
 ### Flourish And Blotts
 #### Bookshop Website, [Live Site](https://flourish-and-blotts.web.app/), [Client Repo](https://github.com/ishtiak-ahmed/flourish---blotts-client), [Server Repo](https://github.com/ishtiak-ahmed/flourish-n-blotts-server)
-- Products data coming from Mongodb server
+- Products data coming from **Mongodb** server
 - User Specific order list
 - Google User authentication (login method)
 - Admin page to manage product, Create and delete product item from database

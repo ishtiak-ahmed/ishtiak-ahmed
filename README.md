@@ -10,9 +10,9 @@
 
 Currently I am 
 - [x] Updating Portfolio Website
-- [ ] Updating resueme
+- [ ] building Task Manager Pro (Webapp)
 - [ ] Applying for Job
-- [X] Updating Github Profile
+- [X] Writing article on Medium
 - [ ] Building a Chat App
 
 ## My Recent Projects -

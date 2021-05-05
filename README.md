@@ -43,7 +43,7 @@ This project is mainly focused firebase authentication. Here I have added..
 - React Router
 - Private (secure) Routing
 - Responsive Layout
-- Material UI Icons
+- Google Map Api
 
 
 ![Hogwarts Express](https://raw.githubusercontent.com/ishtiak-ahmed/hogwarts-express/main/hogwarts.png)

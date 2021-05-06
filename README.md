@@ -17,7 +17,7 @@ Currently I am
 
 ## My Recent Projects -
 ### Rana Agency
-#### Private Detective and Security Firm Website, [Live Site](https://rana-agency.web.app/), [Client Repo](https://github.com/ishtiak-ahmed/rana-agency-client), [Server Repo](https://github.com/ishtiak-ahmed/rana-agency-server)
+#### Private Investigation and Security Firm Website, [Live Site](https://rana-agency.web.app/), [Client Repo](https://github.com/ishtiak-ahmed/rana-agency-client), [Server Repo](https://github.com/ishtiak-ahmed/rana-agency-server)
 
 - Here user can hire service and give reviews. Admin can manage order, change order status, delete and add service, add new admin..
 - I used React, Bootstrap, Font Awesome icons, React Stripe for Payment to build the client side. For Backend I used- Node, Express, Mongodb and Heroku server to deploy live server.

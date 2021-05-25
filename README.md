@@ -6,7 +6,7 @@
 +  React, Node, Express, MongoDB, SASS (SCSS), Bootstrap
 ```
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ishtiak-ahmed-1606/) [![Facebook Profile](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ishtiak.ahmed1606) [Portfolio](https://ishtiak-ahmed.web.app) [![Medium Follow](https://ishtiak-ahmed.medium.com/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ishtiak-ahmed-1606/) [![Facebook Profile](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ishtiak.ahmed1606) [Portfolio](https://ishtiak-ahmed.web.app) [!Medium Follow](https://ishtiak-ahmed.medium.com/)
 
 Currently I am 
 - [x] Updating Portfolio Website

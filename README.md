@@ -23,7 +23,7 @@ My current learning Goal
 - [x] SCSS
 - [ ] D3.js
 - [ ] GraphQL
-- [ ] React Native
+- [x] React Native
 
 ## My Recent Projects -
 ### Rana Agency

@@ -18,12 +18,15 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />] <br />
 
 
-My current learning Goal
+My current Goal to Build project with -
 - [x] Redux
 - [x] SCSS
+- [x] React Native
+- [ ] Webpack
+- [ ] Typescript
 - [ ] D3.js
 - [ ] GraphQL
-- [x] React Native
+
 
 ## My Recent Projects -
 ### Rana Agency

@@ -25,6 +25,7 @@ My current Goal to Build project with -
 - [x] Redux
 - [x] SCSS
 - [x] React Native
+- [x] Mongoose
 - [ ] Webpack
 - [ ] Typescript
 - [ ] D3.js

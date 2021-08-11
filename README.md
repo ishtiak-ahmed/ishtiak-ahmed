@@ -3,9 +3,9 @@
 # I am Ishtiak Ahmed
 ### MERN Stack Web Developer
 
-### Main Tech Stack
+### Currently working with
 ```diff
-+  React, Node, Express, MongoDB(Mongoose), TypeScript, SASS (SCSS), NextJS, Redux
++  React, NextJS, Redux, Typescipt, SASS (SCSS)
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtiak-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ishtiak_ahmed" /> </p>

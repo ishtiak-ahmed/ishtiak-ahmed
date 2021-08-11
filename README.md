@@ -23,14 +23,10 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />] <br />
 
 
-My current Goal to Build project with -
-- [x] Redux
-- [x] SCSS
-- [x] React Native
-- [x] Mongoose
-- [ ] Webpack
-- [ ] Typescript
-- [ ] D3.js
+Learning
+- [ ] NestJS
+- [ ] Redux Saga
+- [ ] React Native
 - [ ] GraphQL
 
 

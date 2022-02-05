@@ -5,7 +5,7 @@
 
 ### Currently working with
 ```diff
-+  React, NextJS, Redux, Typescipt, SASS (SCSS)
++  React, NextJS, Redux, Typescipt, Node, Mongoose(MongoDB), AWS Lambda, SASS (SCSS)
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtiak-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ishtiak_ahmed" /> </p>

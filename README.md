@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtiak-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ishtiak_ahmed" /> </p>
 
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ishtiak-ahmed-1606/) [![Facebook Profile](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ishtiak.ahmed1606) [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://ishtiak-ahmed.medium.com/)  [Portfolio](https://ishtiak-ahmed.web.app)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ishtiak-ahmed-1606/) [![Facebook Profile](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ishtiak.ahmed1606) [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://ishtiak-ahmed.medium.com/)  [Portfolio](https://ishtiak-ahmed.app)
 
 ### Languages and Tools:
 
